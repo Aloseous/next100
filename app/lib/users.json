@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Alice Johnson",
+      "age": 28,
+      "sex": "Female",
+      "desc": "Alice is a software engineer with a passion for artificial intelligence and machine learning.",
+      "avatar":"https://images.pexels.com/photos/7330346/pexels-photo-7330346.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "Michael Smith",
+        "age": 35,
+        "sex": "Male",
+        "desc": "Michael is a digital marketer who enjoys helping businesses grow their online presence.",
+        "avatar":"https://images.pexels.com/photos/29181204/pexels-photo-29181204/free-photo-of-day-of-the-dead-costume-with-skull-makeup.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "Ravi Patel",
+        "age": 42,
+        "sex": "Male",
+        "desc": "Ravi is a project manager specializing in construction projects across the Asia-Pacific region.",
+        "avatar":"https://images.pexels.com/photos/27545223/pexels-photo-27545223/free-photo-of-model-in-sweater-lying-on-grass.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+  
